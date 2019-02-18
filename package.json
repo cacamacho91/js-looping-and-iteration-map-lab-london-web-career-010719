@@ -34,5 +34,8 @@
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "1.0.1",
     "sinon": "^6.3.4"
+  },
+  "dependencies": {
+    "text-encoding": "^0.7.0"
   }
 }
